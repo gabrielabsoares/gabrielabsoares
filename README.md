@@ -1,4 +1,6 @@
-## Hi there 👋
+bem vindos ao meu perfil🤍
+
+ola.. me chamo gabriela 🤗 
 
 <!--
 **gabrielabsoares/gabrielabsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
